@@ -12,13 +12,7 @@ ReleaseWin/
 #files
 .project
 .cproject
-.qmake.stash
-Makefile
-Makefile.Debug
-Makefile.Release
 includeheaders
-includereleaseso
-includedebugso
 
 #file types
 *.o
